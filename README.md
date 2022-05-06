@@ -15,11 +15,11 @@ Title: Development of an antibody panel for Imaging mass cytometry to investigat
 
 Journal: The paper is submitted to Frontiers in Oncology
 
-Published: pre-print available at bioRxiv here: 
+Published: pre-print available at bioRxiv here: XXXXXXX
 
 ## IMC data availability
 
-The data that accompany the provided codes are publickly available at:
+The data that accompany the study, and the codes are publicly available at: XXXXXXX
 
 ## Dependencies and System Requirements
 
@@ -40,7 +40,7 @@ More detailed vignette will appear soon. Please note that the provided examples 
 
 6-May-2022 : Beta version 1
 
-## Contact
+## Contact information
 
 Comments and bug reports are welcome, please email: Dimitrios Kleftogiannis (dimitrios.kleftogiannis@uib.no)
 
