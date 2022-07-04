@@ -13,9 +13,9 @@ We provide a bioinformatics pipeline that allows users to:
 
 Title: Development of an antibody panel for Imaging mass cytometry to investigate cancer-associated fibroblast heterogeneity and spatial distribution in archival 
 
-Journal: The paper is submitted to Frontiers in Oncology
+Journal: The paper is submitted to Scientific Reports
 
-Published: pre-print available at bioRxiv here: XXXXXXX
+Published: pre-print available at bioRxiv here: doi: https://doi.org/10.1101/2022.05.12.491175
 
 ## IMC data availability
 
